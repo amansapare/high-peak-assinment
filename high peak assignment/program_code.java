@@ -1,31 +1,3 @@
-input:
-
-Digital Camera :  11101
-
-And the difference between the chosen goodie with highest price and the lowest price is 3121
-Number of employees : 2
-Here the input_items that are selected for distribution are:
-Cult Pass :  2799
-Scale :  4999
-And the difference between the chosen goodie with highest price and the lowest price is 199
-Number of employees : 4
-Here the input_items that are selected for distribution are:
-Fitbit Plus :  7980
-Microwave Oven :  9800
-Alexa :  9999
-Digital Camera :  11101
-
-And the difference between the chosen goodie with highest price and the lowest price is 3121
-Number of employees : 2
-Here the input_items that are selected for distribution are:
-Cult Pass :  2799
-Scale :  4999
-And the difference between the chosen goodie with highest price and the lowest price is 199
-
-
-
-PROGRAM
-
 import java.io.IOException;
 import java.util.Arrays;
 import java.util.Scanner;
@@ -74,14 +46,3 @@ public class Demo1 {
 	}
 
 
-output:
-
-Enter the number of employees
-4
-Number of the employees:4
-Here the goodies that are selected for distribution are:
-Fitbit Plus: 7980
-Microwave Oven: 9800
-Alexa: 9999
-Digital Camera: 11101
-And the difference between the chosen goodie with highest price and the lowest price is:3121
